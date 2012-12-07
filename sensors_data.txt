@@ -16,3 +16,13 @@ acpitz-virtual-0
 Adapter: Virtual device
 temp1:        +28.0°C  (crit = +102.0°C)
 
+## Dell Vostro 420 Desktop, Intel Core2Quad Q9400 @ 2.66 GHz, Ubuntu 12.04 LTS ##
+## Also: Dell Inspiron 530, Intel Core2Quad Q6600, 2.4 GHz, Ubuntu 12.04 LTS ##
+coretemp-isa-0000
+Adapter: ISA adapter
+Core 0:       +62.0°C  (high = +84.0°C, crit = +100.0°C)
+Core 1:       +59.0°C  (high = +84.0°C, crit = +100.0°C)
+Core 2:       +60.0°C  (high = +84.0°C, crit = +100.0°C)
+Core 3:       +63.0°C  (high = +84.0°C, crit = +100.0°C)
+
+
