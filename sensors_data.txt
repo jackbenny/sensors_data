@@ -1,0 +1,18 @@
+## HP Pavilion, AMD64x4, Xubuntu 12.04 ##
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +40.0°C  (crit = +75.0°C)
+
+## Toshiba laptop, AMD Turion64, Debian 6 ##
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:  +43.0°C
+Core0 Temp:  +35.0°C
+Core1 Temp:  +48.0°C
+Core1 Temp:  +42.0°C
+
+## HP Pavilion laptop, Intel Core2Duo, Xubuntu 12.04 ##
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +28.0°C  (crit = +102.0°C)
+
