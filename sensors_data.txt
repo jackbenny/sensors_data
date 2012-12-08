@@ -3,6 +3,7 @@ acpitz-virtual-0
 Adapter: Virtual device
 temp1:        +40.0°C  (crit = +75.0°C)
 
+
 ## Toshiba laptop, AMD Turion64, Debian 6 ##
 k8temp-pci-00c3
 Adapter: PCI adapter
@@ -11,10 +12,12 @@ Core0 Temp:  +35.0°C
 Core1 Temp:  +48.0°C
 Core1 Temp:  +42.0°C
 
+
 ## HP Pavilion laptop, Intel Core2Duo, Xubuntu 12.04 ##
 acpitz-virtual-0
 Adapter: Virtual device
 temp1:        +28.0°C  (crit = +102.0°C)
+
 
 ## Dell Vostro 420 Desktop, Intel Core2Quad Q9400 @ 2.66 GHz, Ubuntu 12.04 LTS ##
 ## Also: Dell Inspiron 530, Intel Core2Quad Q6600, 2.4 GHz, Ubuntu 12.04 LTS ##
@@ -24,6 +27,7 @@ Core 0:       +62.0°C  (high = +84.0°C, crit = +100.0°C)
 Core 1:       +59.0°C  (high = +84.0°C, crit = +100.0°C)
 Core 2:       +60.0°C  (high = +84.0°C, crit = +100.0°C)
 Core 3:       +63.0°C  (high = +84.0°C, crit = +100.0°C)
+
 
 ## NoName (homebuilt PC) AMD Athlon64 Dual Core, Debian 6 ##
 atk0110-acpi-0
@@ -43,4 +47,15 @@ Core0 Temp:  +31.0°C
 Core0 Temp:  +22.0°C                                    
 Core1 Temp:  +24.0°C                                    
 Core1 Temp:  +22.0°C                                    
+
+
+## Asus EeePC 900, Ubuntu 12.04
+acpitz-virtual-0
+Adapter: Virtual device
+temp1:        +37.0°C  (crit = +90.0°C)
+
+eeepc-isa-0000
+Adapter: ISA adapter
+fan1:           0 RPM
+
 
