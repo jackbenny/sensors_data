@@ -25,4 +25,22 @@ Core 1:       +59.0°C  (high = +84.0°C, crit = +100.0°C)
 Core 2:       +60.0°C  (high = +84.0°C, crit = +100.0°C)
 Core 3:       +63.0°C  (high = +84.0°C, crit = +100.0°C)
 
+## NoName (homebuilt PC) AMD Athlon64 Dual Core, Debian 6 ##
+atk0110-acpi-0
+Adapter: ACPI interface
+Vcore Voltage:     +1.36 V  (min =  +0.85 V, max =  +1.60 V)
+ +3.3 Voltage:     +3.23 V  (min =  +2.97 V, max =  +3.63 V)
+ +5 Voltage:       +4.97 V  (min =  +4.50 V, max =  +5.50 V)
+ +12 Voltage:     +11.86 V  (min = +10.20 V, max = +13.80 V)
+CPU FAN Speed:    1939 RPM  (min =  600 RPM)
+CHASSIS FAN Speed:1030 RPM  (min =  800 RPM)
+CPU Temperature:   +27.0°C  (high = +60.0°C, crit = +95.0°C)  
+MB Temperature:    +22.0°C  (high = +45.0°C, crit = +95.0°C)  
+
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:  +31.0°C                                    
+Core0 Temp:  +22.0°C                                    
+Core1 Temp:  +24.0°C                                    
+Core1 Temp:  +22.0°C                                    
 
